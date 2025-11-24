@@ -1,0 +1,14 @@
+LIB-59444|1984|George Orwell|3|Ciencia Ficción (Sci-Fi)|Debolsillo / Tusquets
+LIB-76865|Cien años de soledad|Gabriel García Márquez|3|Terror / Horror|Editorial Sudamericana / Diana
+LIB-17347|Crónica de una muerte anunciada|Gabriel García Márquez|4|Novela Histórica|Debolsillo / Literatura Random House
+LIB-40447|Dune|Frank Herbert|6|Misterio / Novela Negra|Plaza & Janés / Debolsillo
+LIB-92146|El Alquimista|Paulo Coelho|7|Ciencia Ficción (Sci-Fi)|Planeta
+LIB-89900|El Código Da Vinci|Dan Brown|4|Thriller / Suspense|Umbriel / Planeta
+LIB-94831|El Resplandor (The Shining)|Stephen King|6|Terror / Horror|Plaza & Janés / Debolsillo
+LIB-62428|El Señor de los Anillos|J.R.R. Tolkien|5|Fantasía|Minotauro
+LIB-41735|Fabricante de lagrimas|Erin Doom|4|Novela Histórica|Montena
+LIB-32329|Harry Potter y la piedra filosofal|J.K. Rowling|3|Fantasía|Ediciones Salamandra
+LIB-15256|Juego de Tronos|George R.R. Martin|3|Fantasía|Plaza & Janés / Gigamesh
+LIB-64849|Los Juegos del Hambre|Suzanne Collins|5|Literatura Juvenil (Young Adult)|RBA / Molino
+LIB-16476|Orgullo y Prejuicio|Jane Austen|4|Romance / Novela Rosa|Alba Editorial / Penguin
+LIB-23219|Sherlock Holmes: Estudio en Escarlata|Arthur Conan Doyle|3|Misterio / Novela Negra / Policial|Alianza Editorial
